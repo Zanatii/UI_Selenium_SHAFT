@@ -1,0 +1,16 @@
+{
+  "pageTitle": "Έχουμε βρει την ιδανική συσκεύη για εσένα!",
+  "tabsTypes": {
+    "bestFit": "Ταιριάζει καλύτερα",
+    "premium": "Premium",
+    "budget": "Φθηνότερο",
+    "alternative": "Εναλλακτικό"
+    },
+    "testData":{
+      "memoryToSelect": "128GB",
+      "colorToSelect": "Λευκό",
+      "colorHexaCode": "#FFFFFF",
+      "colorInEnglish": "white",
+      "numberOfTopFeatures": 5
+    }
+}

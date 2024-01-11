@@ -1,0 +1,28 @@
+{
+  "firstProduct": {
+    "recommendedTab": {
+      "name": "SmartTouch Menu (Full)",
+      "priceValue": "€40.00",
+      "paymentType": "Prezzo al mese",
+      "paymentType2": "Contributo iniziale",
+      "initialPrice": "Gratis"
+    },
+    "alternativeTab": {
+      "name": "SmartTouch Menu .",
+      "priceValue": "€20.00",
+      "paymentType": "Prezzo al mese",
+      "paymentType2": "Contributo iniziale",
+      "initialPrice": "Gratis"
+    }
+    },
+    "Features": [
+      "Ottimizzazione del lavoroIl cliente ordina dall’app tutto o parte del menù mentre tu gestisci il tuo locale in modo ordinato, rapido e preciso",
+      "Valorizza il tuo menùDisponibile sullo smartphone dei clienti e sempre aggiornato con dettagli e immagini dei tuoi piatti",
+      "Incremento delle venditeAgevoli le seconde ordinazioni dei clienti nel locale e massimizzi le tue vendite grazie al trasporto e delivery. Inoltre puoi invitarli a tornare con promozioni ed eventi dedicati",
+      "Ordini d'Asporto e a DomicilioOffri la possibilitá ai tuoi clienti di ordinare da casa o dall’ufficio ad un prezzo fisso e conveniente per te",
+      "ricezione Ricevi l’ordine del cliente direttamente sul tuo smartphone, tablet o sulla stampante termica.",
+      "RegistrazioneI clienti scaricano l’App e attraverso il QR Code o il tag NFC del segnatavolo si registrano nel locale. Ogni tavolo avrà codice univoco.",
+      "OrdinazioneI clienti sfogliano il menù e ordinano comodamente dal loro smartphone."
+    ],
+    "URL": ""
+  }

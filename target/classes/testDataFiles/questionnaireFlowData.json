@@ -1,0 +1,115 @@
+{
+  "questions" : {
+    "Q1" : {
+      "title" : "Quanto è grande la tua azienda?",
+      "A1" : "Da 1 a 9 dipendenti",
+      "A2" : "Da 10 a 50 dipendenti",
+      "A3" : "Più di 50 dipendenti"
+    },
+    "Q2" : {
+      "title"   :  "Di cosa si occupa la tua attività?",
+      "A1" : "Studi professionali (notaio, avvocato, settore medico)",
+      "A2" : "Attività commerciali",
+      "A3": "Libero professionista (architetto, P.IVA)",
+      "A4": "Ristorazione, Hotel",
+      "A5": "Attività di intrattenimento, servizi e formazione",
+      "A6": "Trasporti e logistica",
+      "A7": "Settore manufatturiero, produzione, installazione, manutenzione"
+    },
+    "Q3" : {
+      "title"   :  "Di cosa ha bisogno la tua attività?",
+      "A1" : "Di lavorare smart, condividendo documenti con dipendenti e fornitori",
+      "A2" : "Di una protezione semplice ed efficace per i dispositivi desktop e mobile",
+      "A3": "Della fatturazione elettronica",
+      "A4": "Di una identità digitale",
+      "A5": "Di gestire in sicurezza e semplicità i dati in cloud",
+      "A6": "Avere posta elettronica certificata"
+    },
+    "Q4": {
+      "title":  "Di cosa ha bisogno la tua attività?",
+      "A1" : "Di lavorare smart, condividendo documenti con dipendenti e fornitori",
+      "A2" : "Di una protezione semplice ed efficace per i dispositivi desktop e mobile",
+      "A3": "Di un sito web su misura per il mio business",
+      "A4": "Di inviare comunicazioni personalizzate ai clienti via mail o SMS",
+      "A5": "Di un WiFi, di collezionare i dati dei clienti nel rispetto della privacy e di creare campagne mirate ",
+      "A6": "Di comunicare offerte mirate ai clienti",
+      "A7": "Di creare campagne pubblicitarie digitali ",
+      "A8": "Avere posta elettronica certificata"
+    },
+    "Q5": {
+      "title":  "Di cosa ha bisogno la tua attività?",
+      "A1" : "Di un sito web su misura per il mio business",
+      "A2" : "Di inviare comunicazioni personalizzate ai clienti via mail o SMS",
+      "A3": "Di lavorare smart, condividendo documenti con dipendenti e fornitori",
+      "A4": "Di una protezione semplice ed efficace per i dispositivi desktop e mobile",
+      "A5": "Della fatturazione elettronica",
+      "A6": "Di comunicare offerte mirate ai clienti",
+      "A7": "Di creare campagne pubblicitarie digitali ",
+      "A8": "Avere posta elettronica certificata"
+    },
+    "Q6": {
+      "title":  "Di cosa ha bisogno la tua attività?",
+      "A1" : "Di un sito web su misura per il mio business",
+      "A2" : "Di un menu digitale con ordini anche d'asporto o delivery",
+      "A3": "Di inviare comunicazioni personalizzate ai clienti via mail o SMS",
+      "A4": "Di un WiFi, di collezionare i dati dei clienti nel rispetto della privacy e di creare campagne mirate",
+      "A5": "Di comunicare offerte mirate ai clienti",
+      "A6": "Di creare campagne pubblicitarie digitali"
+    },
+    "Q7": {
+      "title":  "Di cosa ha bisogno la tua attività?",
+      "A1" : "Di lavorare smart, condividendo documenti con dipendenti e fornitori",
+      "A2" : "Di un sito web su misura per il mio business",
+      "A3": "Di inviare comunicazioni personalizzate ai clienti via mail o SMS",
+      "A4": "Di comunicare offerte mirate ai clienti",
+      "A5": "Di creare campagne pubblicitarie digitali",
+      "A6": "Di gestire in sicurezza e semplicità i dati in cloud"
+    },
+    "Q8": {
+      "title":  "Di cosa ha bisogno la tua attività?",
+      "A1" : "Di proteggere i veicoli aziendali",
+      "A2" : "Di pianificare, gestire e convalidare le consegne",
+      "A3": "Di lavorare smart, condividendo documenti con dipendenti e fornitori",
+      "A4": "Di gestire in sicurezza e semplicità i dati in cloud",
+      "A5": "Di una protezione avanzata contro le minacce verso gli smartphone"
+    },
+    "Q9": {
+      "title":  "Di cosa ha bisogno la tua attività?",
+      "A1" : "Di lavorare smart, condividendo documenti con dipendenti e fornitori",
+      "A2" : "Di gestire in sicurezza e semplicità i dati in cloud",
+      "A3": "Di una protezione avanzata contro le minacce verso gli smartphone",
+      "A4": "Di proteggere i veicoli aziendali"
+    },
+    "Q10": {
+      "title": "La tua azienda dispone già di licenze M365 business?",
+      "A1": "SI",
+      "A2": "NO"
+    },
+    "Q11": {
+      "title": "Necessiti di un servizio di gestione delle tue licenze?",
+      "A1": "SI",
+      "A2": "NO"
+    },
+    "Q12": {
+      "title": "Vorresti avere le licenze M365 con un supporto di gestione integrato?",
+      "A1": "SI",
+      "A2": "NO"
+    },
+    "searchPage": {
+      "title": "Αναζήτησε την ιδανική συσκευή για εσένα"
+    }
+  },
+  "testData": {
+    "minimumUnitsToIncreasePriceWith" : 20,
+    "unitsToIncreasePriceWithToChangeRecommendations": 149,
+    "deviceWithMultipleMemories" : "Apple iPhone 12",
+    "deviceWithMultipleColors" : "Samsung",
+    "validSearchValue" : "IPH",
+    "invalidSearchValue" : "NoProduct",
+    "invalidSearchResult" : "No results found for NoProduct"
+  },
+  "RecommendationPage":
+  {
+    "title"   :  "Έχουμε βρει την ιδανική συσκεύη για εσένα!"
+  }
+}

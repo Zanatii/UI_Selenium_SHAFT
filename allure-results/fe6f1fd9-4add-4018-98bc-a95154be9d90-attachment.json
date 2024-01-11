@@ -1,0 +1,199 @@
+{
+  "firstProduct": {
+    "recommendedTab" : {
+      "name" : "M365 NCE (M365 Business Standard)",
+      "priceValue" : "€9.95",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "premiumTab" : {
+      "name" : "M365 NCE (M365 Business Premium)",
+      "priceValue" : "€17.51",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "alternativeTab" : {
+      "name" : "M365 NCE (Microsoft Teams Essentials)",
+      "priceValue" : "€3.70",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Archivio in cloud Per conservare i documenti aggiornati e sicuri.",
+      "Messaggistica istantanea Per una comunicazione semplice e immediata.",
+      "Video riunioni da tutti i devicePer lavorare insieme a distanza e condividere documenti anche in mobilità.",
+      "Mail aziendale (edizioni Business)Sempre aggiornata e sincronizzata su tutti i dispositivi.",
+      "Archiviazione nel cloud sicura per l'utenteModifica e condividi documenti, foto e molto altro ovunque ti trovi, in tutti i tuoi dispositivi con archiviazione su cloud.",
+      "Connessione e collaborazioneAccedi immediatamente a tutto ciò di cui i tuoi team possono aver bisogno, tra cui chat, contenuti, strumenti e persone con Microsoft Teams.",
+      "App di OfficeRicevi aggiornamenti mensili e le funzionalità più recenti con le versioni complete installate e sempre aggiornate."],
+    "URL" : ""
+    },
+  "secondProduct": {
+    "recommendedTab" : {
+      "name" : "Sito Web Plus (Presenza Web)",
+      "priceValue" : "€40.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "premiumTab" : {
+      "name" : "Sito Web Plus (Presenza Ecommerce)",
+      "priceValue" : "€100.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "alternativeTab" : {
+      "name" : "Sito Web Plus",
+      "priceValue" : "€22.50",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Fatti trovareFatti trovare su Google e Maps, creando o aggiornando la scheda Google My Business.",
+      "Presenza digitale completaSii presente su Amazon, social network e motori di ricerca.",
+      "Design personalizzatoUn consulente personale creerà testi, grafica e struttura di un sito.",
+      "Mail aziendale (edizioni Business)Sempre aggiornata e sincronizzata su tutti i dispositivi.",
+      "Supporto continuativoIncluse 4 chiamate annue e il supporto costante dell’assistente personale.",
+      "Costruzione profilo venditore AmazonIl proprio eCommerce è importante, ma lo è anche Amazon: il consulente creerà un profilo da venditore su Amazon e ti aiuterà per sfruttarla al meglio, incrementando le vendite.",
+      "Servizio fotograficoCon Sito Web Plus hai incluso un servizio fotografico professionale in loco.",
+      "Google My Business e DominioOltre alla creazione della scheda Google My Business, è inclusa anche la creazione di un dominio con 3 caselle di posta elettronica da 5GB o il collegamento alla tua mail.",
+      "Uniformità della presenza onlineGrazie al servizio Uberall, sincronizzi +125 piattaforme digitali per avere una presenza web coerente su tutti i canali online e migliorare il posizionamento su motori di ricerca.",
+      "Costruzione piano editoriale socialUtilizza al meglio Facebook, Instagram o Linkedin. Costruisci con l’assistente personale un piano editoriale social (2 contenuti al mese) e resta in contatto con i tuoi clienti.",
+      "Sito personalizzatoL’assistente personale realizzerà il sito o l'eCommerce su misura per te. È possibile modificare i contenuti in autonomia tramite portale dedicato."],
+    "URL" : ""
+  },
+  "thirdProduct": {
+    "recommendedTab" : {
+      "name" : "Smart Communication Platform S",
+      "priceValue" : "€125.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "premiumTab" : {
+      "name" : "Smart Communication Platform M",
+      "priceValue" : "€240.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "alternativeTab" : {
+      "name" : "Smart Communication Platform XS",
+      "priceValue" : "€55.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "PersonalizzaLa piattaforma consente l’invio di SMS e Email con mittente registrato (ALIAS), testi personalizzati e inserimento link. Le mail sono costruite a partire da template adattabili.",
+      "AnalizzaReportizza i dati e monitora l’invio degli SMS o email verificando eventuali conversioni.",
+      "EfficaceInvia promo, notifiche di consegna o promemoria di appuntamenti.",
+      "Utilizza il tuo CRMÈ possibile importare CRM di clienti attraverso file o registrarne nuovi inserendo dati anagrafici e molto altro.",
+      "Ricorda gli appuntamentiIdeale per notifiche di consegna, promemoria di appuntamenti o raccolta feedback.",
+      "ProgrammaPianifica l’invio delle comunicazioni impostando data e ora per massimizzarne l’efficacia.",
+      "IntuitivaPiattaforma di facile utilizzo per inviare SMS e mail personalizzate in autonomia."],
+    "URL" : ""
+  },
+  "fourthProduct": {
+    "recommendedTab" : {
+      "name" : "Social Connect x2",
+      "priceValue" : "€29.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "€70.00"
+    },
+    "premiumTab" : {
+      "name" : "Social Connect x3",
+      "priceValue" : "€43.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "€105.00"
+    },
+    "alternativeTab" : {
+      "name" : "Social Connect .",
+      "priceValue" : "€15.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "€35.00"
+    },
+    "Features" : [
+      "PromozioniComunica ai clienti le tue offerte",
+      "Social LoginOffri ai tuoi clienti un accesso immediato al Wi-Fi",
+      "AnalyticsRaccogli i contatti dei tuoi clienti nel rispetto della loro privacy",
+      "Personalizza la pagina di benvenutoin linea con il tuo marchio",
+      "Raccogli statistiche su come i tuoi clientisi comportano nel tuo locale",
+      "Colleziona i dati di contatto dei tuoi clientida usare nelle campagne marketing",
+      "Collega l’Access Point alla Vodafone Stationper rendere subito disponibile la rete Wi-Fidedicata ai tuoi ospiti",
+      "Invia promozioni personalizzate ai tuoi clienti"],
+    "URL" : ""
+  },
+  "fifthProduct": {
+    "recommendedTab" : {
+      "name" : "Smart Digital Marketing (Pro)",
+      "priceValue" : "€180.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "premiumTab" : {
+      "name" : "Smart Digital Marketing (Expert)",
+      "priceValue" : "€300.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "alternativeTab" : {
+      "name" : "Smart Digital Marketing (Start)",
+      "priceValue" : "€100.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Profilazione di targetGli utenti destinatari della campagna vengono definiti a partire dai seguenti parametri: bacino geografico degli utenti da raggiungere (fino a 10 aree) sesso e età interessi (es. elettronica di consumo, sport, cibo, arte e tempo libero, ecc.)",
+      "Canali di comunicazioneGoogle e motori di ricerca Annunci sponsorizzati visibili in base alle parole chiave e ai dati di geolocalizzazione dell’utente. Social Network Post mostrati all’utente in base all’aderenza alle caratteristiche (interessi, eta’, sesso, ecc.) del target definite. Display Banner ed inserti grafici su applicazioni mobili, siti mobile, video e instant articles.",
+      "Ottimizzazione e reportisticaIntelligenza artificale La nostra intelligenza artificiale sceglierà la combinazione di canali più efficace, modificherà nel tempo il peso di ogni canale e ottimizzera’ il budget per garantire la massima efficacia alla tua campagna. Report Ogni mese i clienti possono verificare le performance della campagna grazie ad un report pdf contenente il dettaglio dei risultati per canale in termini di click e visualizzazioni degli annunci.",
+      "Più efficacia a parità di costoL’intelligenza artificiale e la dettagliata profilazione degli utenti consentono di migliorare nel tempo i risultati della campagna fino a raddoppiarli.",
+      "Velocità di lancioLanciare una campagna non e’ mai stato cosi semplice: in pochi passi potrai configurare, con il supporto telefonico di un nostro operatore, gli utenti target e i contenuti da comunicare.",
+      "MulticanalitàCon una sola campagna potrai ottenere visibilita’ sui principali motori di ricerca, social network, siti ed app. Costruiremo noi per te la tua strategia di marketing!"
+      ],
+    "URL" : ""
+  },
+  "sixthProduct": {
+    "recommendedTab": {
+      "name": "Firma Digitale e PEC (PEC Silver + Password Protection)",
+      "priceValue": "€2,20",
+      "paymentType": "Prezzo al mese",
+      "paymentType2": "Contributo iniziale",
+      "initialPrice": "Gratis"
+    },
+    "premiumTab": {
+      "name": "Firma Digitale e PEC (PEC Gold - Identità Digitale)",
+      "priceValue": "€11,90",
+      "paymentType": "Prezzo al mese",
+      "paymentType2": "Contributo iniziale",
+      "initialPrice": "Gratis"
+    },
+    "alternativeTab": {
+      "name": "Firma Digitale e PEC (PEC Bronze + Password Protection)",
+      "priceValue": "€3,15",
+      "paymentType": "Prezzo al mese",
+      "paymentType2": "Contributo iniziale",
+      "initialPrice": "Gratis"
+    },
+    "Features": [
+      "Risparmia Tempo Velocizza i processi approvativi e le comunicazioni formali",
+      "Riduci i costi Elimina l’uso della carta e riduci gli spostamenti lavorando da remoto",
+      "Semplifica la tua attività In pochi click concludi iter e assolvi adempimenti e mansioni.",
+      "Lavora in sicurezza Assicura certezza, sicurezza e validità legale alle tue attività online"
+      ],
+    "URL": ""
+  }
+}
+
+

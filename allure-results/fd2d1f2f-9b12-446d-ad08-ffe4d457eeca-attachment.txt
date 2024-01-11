@@ -1,0 +1,98 @@
+[INFO ] 2024-01-10 19:12:52.833 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.4.20231015[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-10 19:12:55.315 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2024-01-10 19:12:55.316 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-01-10 19:12:55.655 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-01-10 19:12:57.144 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-01-10 19:12:57.232 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-01-10 19:12:57.684 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "questionnaireFlowData.json"".
+[INFO ] 2024-01-10 19:12:57.687 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/questionnaireFlowData.json"".
+[INFO ] 2024-01-10 19:12:57.762 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/questionnaireFlowData.json"".
+[ERROR] 2024-01-10 19:12:57.903 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2024-01-10 19:12:57.919 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2024-01-10 19:12:57.925 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[ERROR] 2024-01-10 19:12:57.927 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2024-01-10 19:12:57.929 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2024-01-10 19:12:57.930 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "oneTabRecommendationData.json"".
+[INFO ] 2024-01-10 19:12:57.932 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/oneTabRecommendationData.json"".
+[INFO ] 2024-01-10 19:12:57.933 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/oneTabRecommendationData.json"".
+[ERROR] 2024-01-10 19:12:57.937 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2024-01-10 19:12:57.939 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2024-01-10 19:12:57.947 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[ERROR] 2024-01-10 19:12:57.948 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2024-01-10 19:12:57.949 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2024-01-10 19:12:57.952 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "twoTabsRecommendationData.json"".
+[INFO ] 2024-01-10 19:12:57.953 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/twoTabsRecommendationData.json"".
+[INFO ] 2024-01-10 19:12:57.955 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/twoTabsRecommendationData.json"".
+[ERROR] 2024-01-10 19:12:57.958 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2024-01-10 19:12:57.960 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2024-01-10 19:12:57.965 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[ERROR] 2024-01-10 19:12:57.966 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2024-01-10 19:12:57.966 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2024-01-10 19:12:57.968 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "threeTabsRecommendationData.json"".
+[INFO ] 2024-01-10 19:12:57.971 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/threeTabsRecommendationData.json"".
+[INFO ] 2024-01-10 19:12:57.973 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/threeTabsRecommendationData.json"".
+[ERROR] 2024-01-10 19:12:57.980 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2024-01-10 19:12:57.982 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2024-01-10 19:12:57.986 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[ERROR] 2024-01-10 19:12:57.987 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2024-01-10 19:12:57.987 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2024-01-10 19:12:58.287 [main] Utils - [TestNG] Running:
+  C:\Users\MohsenM5\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[INFO ] 2024-01-10 19:12:58.407 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-10 19:12:58.790 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-01-10 19:12:58.812 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-01-10 19:12:59.274 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of main set up configuration method                                             
+                                        'tests.recommendations.dataValidations.dataValidations.mainSetUp'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-10 19:12:59.428 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-01-10 19:12:59.483 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\MohsenM5\IdeaProje..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-01-10 19:12:59.486 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-01-10 19:12:59.486 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-01-10 19:13:16.931 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-01-10 19:13:16.932 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[WARN ] 2024-01-10 19:13:24.645 [main] ReportManager - Jan 10, 2024 7:13:24 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-01-10 19:13:24.646 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 120, so returning the closest version found: 117
+[INFO ] 2024-01-10 19:13:24.678 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-01-10 19:13:24.712 [main] ReportManager - Successfully created attachment 'Driver factory helper - Get  stack  trace - Exception Stacktrace'
+[INFO ] 2024-01-10 19:13:25.085 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                          'tests.recommendations.dataValidations.dataValidations.setUp'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-10 19:13:25.125 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                  Test Method: 'tests.recommendations.dataValidations.dataValidations.testing'                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-10 19:13:25.185 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: mainSetUp'
+[INFO ] 2024-01-10 19:13:25.194 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: testing'
+[INFO ] 2024-01-10 19:13:25.194 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                       Finished Execution of Test Method: 'tests.recommendations.dataValidations.dataValidations.testing'                       
+                                                             Test Status: 'Skipped'                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-10 19:13:25.297 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-10 19:13:25.302 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-01-10 19:13:25.308 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2024-01-10 19:13:25.314 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

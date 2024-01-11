@@ -1,0 +1,7 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                  Test Method: 'tests.recommendations.dataValidations.dataValidations.testing'                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: mainSetUp' @10-01-2024 19:13:25.0185 PM
