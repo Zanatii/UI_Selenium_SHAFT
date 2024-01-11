@@ -1,0 +1,211 @@
+{
+  "firstProduct": {
+"recommendedTab" : {
+"name" : "Worry-Free Services Advanced",
+"priceValue" : "€2,75",
+"paymentType" : "Prezzo al mese",
+"paymentType2" : "Contributo iniziale",
+"initialPrice" : "Gratis"
+},
+"features" : [
+"BLOCCO MINACCE Capacità di rilevare e bloccare una varietà sempre crescente di minacce, tra cui quelle fileless e il ransomware.",
+"PROTEGGE LE MAIL Abilità di bloccare le minacce email nel cloud prima che raggiungano la rete",
+"PROTEZIONE CREDENZIALI Protezione da spear phishing, phishing delle credenziali, Business Email Compromise (BEC) e attacchi mirati avanzati",
+"PROTEGGE DALLE MINACCE Protezione contro le minacce nuove e sconosciute",
+"NON PERDI DATI Funzionalità di prevenzione della perdita di dati.",
+"EVITA L'ACCESSO A SITI INOPPORTUNI Filtro URL basato su categorie per impedire agli utenti di accedere a siti Web inappropriati.",
+"Controlli di sicurezza multilivello Protezione altamente efficace contro le minacce avanzate, fornita tramite un singolo agent leggero",
+"Soluzione integrata Console singola per protezione di endpoint, email, web e cloud. Supporta desktop e server Windows, Mac, dispositivi iOS e Android",
+"Semplicità Soluzioni facili da implementare e gestire",
+"Protezione leader Protezione basata su test di efficacia della sicurezza"],
+"URL" : ""
+},
+"secondProduct": {
+"recommendedTab" : {
+"name" : "Fattura Elettronica",
+"priceValue" : "€2,50",
+"paymentType" : "Prezzo al mese",
+"paymentType2" : "Contributo iniziale",
+"initialPrice" : "Gratis"
+},
+"features" : [
+  "INVIO FATTURE Gestisci il Ciclo Attivo emettendo fatture elettroniche ordinarie e/o semplificate, monitorando lo stato avanzamento fattura ed emettendo note di credito e solleciti.",
+  "RICEZIONE FATTURE Gestisci il ciclo passivo ricevendo le fatture elettroniche, gestendo le diverse modalità di pagamento, impostando promemoria per le scadenze e registrando note di credito.",
+  "SPAZIO CONDIVISO Condividi lo spazio di lavoro con il tuo commercialista che potrà visionare tutti i documenti in piattaforma e essere più efficiente nella compilazione dei documenti contabili.",
+  "REPORTISTICA Analizza l’andamento del tuo business visualizzando la reportistica che la piattaforma genera automaticamente sulla base delle fatture registrate",
+  "CONSERVAZIONE A NORMA Conserva automaticamente a norma i documenti inviati e ricevuti dal Sistema di Interscambio dell’Agenzia delle Entrate",
+  "ANAGRAFICHE Inserisci, aggiorna e gestisci i contatti dei fornitori e dei clienti in unico punto per compilare i documenti ancora più velocemente.",
+  "Multipiattaforma Accesso ovunque ed in qualsiasi momento tramite pc, smartphone o tablet.",
+  "Pieno Controllo Un assistente virtuale che genera report e monitora le scadenze.",
+  "Affidabilità Abbattimento del rischio di virus e perdita di dati grazie a InfoCert.",
+  "Adattabilità Template preimpostati e adattabili al proprio profilo contabile."
+  ],
+"URL" : ""
+  },
+  "thirdProduct": {
+    "recommendedTab" : {
+      "name" : "SPID Professionisti",
+      "priceValue" : "€2,50",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Accedi a servizi importanti per il tuo lavoro",
+      "È in grado di trasmettere informazioni dettagliate ed ufficiali aggiuntive necessarie per lo scambio di servizi, documenti e prestazioni con gli Enti designati",
+      "Contiene solo i dati della Persona Fisica ed è riservato ai liberi professionisti.",
+      "Con Spid ad uso Professionale e’ possibile accedere ai servizi online della Pubblica Amministrazione e degli enti privati aderenti, ovunque.",
+      "Grazie a SPID Professionisti è possibile certificare, proteggere e utilizzare l’identità online, in totale sicurezza.",
+      "E’ l’unico SPID professionale che consente l’accesso a tutti i servizi della PA: dalla visualizzazione di documenti, atti, estratti di ogni genere fino al pagamento di sanzioni, imposte personali e aziendali"
+    ],
+    "URL" : ""
+  },
+  "fourthProduct": {
+    "recommendedTab" : {
+      "name" : "Backup Facile",
+      "priceValue" : "€7,50",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Tutto in uno Un’unica piattaforma di gestione del backup dei dati aziendali,semplice e professionale allo stesso tempo",
+      "Backup e Ripristino In caso di attacco informatico è possibile ripristinare in pochi semplici click singoli file, cartelle o interi dispositivi tornando all’ultimo backup effettuato.",
+      "Sync & Share Salva, sincronizza e condividi in tutta sicurezza i dati di tutti i dispositivi aziendali (server, PC, device mobili)",
+      "Fattura unica Paghi tutte le tue licenze nella tua fattura Vodafone Business.",
+      "Consulenza Guidiamo il cliente nel trovare l’offerta che più si adatti alle sue esigenze.",
+      "Assistenza Assistenza dedicata anche dopo l’acquisto della soluzione grazie ad un numero di supporto dedicato."
+    ],
+    "URL" : ""
+  },
+  "fifthProduct": {
+    "recommendedTab" : {
+      "name" : "Movylo",
+      "priceValue" : "€20.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Invia coupon e messaggi promozionali ai tuoi clienti tramite email e notifiche push in app",
+      "Incrementa le tue vendite con la funzionalità di e-commerce che ti permette di vendere anche da mobile",
+      "Fidelizza i tuoi clienti con un programma fedeltà che accumula punti in base agli acquisti effettuati",
+      "Analizza le tue vendite grazie a report dettagliati sui tuoi clienti, sui loro interessi e profili di spesa"
+    ],
+    "URL" : ""
+  },
+  "sixthProduct": {
+    "recommendedTab" : {
+      "name" : "Vodafone Business SVR",
+      "priceValue" : "€365.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "REPORT VIAGGIPuoi ricevere un riepilogo dei viaggi effettuati, Km percorsi, velocità media e massima.",
+      "LOCALIZZAZIONE & GEOFENCING Puoi visualizzare in tempo reale il tuo veicolo su mappa Google ed impostare un perimetro virtuale.",
+      "GESTIONE MULTIVEICOLO Puoi gestire dall’app fino a 10 veicoli.",
+      "ALLERTE AUTOMATICHE & SOS Il dispositivo invia una allerta automatica alla Centrale Operativa di Sicurezza in caso di furto del veicolo e garantisce un contatto immediato in caso di necessitá.",
+      "MODALITÀ SPECIALI Potrai scegliere differenti modalità, quali Garage o Trasporto, per disattivare le allerte automatiche di furto in caso il veicolo sia fermo per manutenzione o in movimento.",
+      "GDPR Ti guida per ritrovare la tua auto se non ricordi dove è stata parcheggiata."
+    ],
+    "URL" : ""
+  },
+  "seventhProduct": {
+    "recommendedTab" : {
+      "name" : "My logistics",
+      "priceValue" : "€12.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "VIAGGI E SERVIZI Visualizzazione dei viaggi programmati e relativi servizi",
+      "GESTIONE DELLA CONSEGNA Gestisci la consegna/il ritiro appena effettuato inserendo note, allegando immagini relative al carico o ai documenti firmati.",
+      "REAL TIME Aggiornamenti in tempo reale sui servizi effettuati e da effettuare.",
+      "Tempo reale Gestione di consegne e ritiri; condivisione immediata con la sede senza attendere il rientro degli autisti",
+      "Digitalizzazione Acquisizione digitale dei documenti di trasporto firmati. Diminuzione delle contestazioni e anticipo del ciclo di fatturazione",
+      "Chiarezza Informazioni chiare, aggiornate, precise e dinamiche (possibilità di interagire direttamente con il telefono per navigatore, chiamate, sms,…)"
+    ],
+    "URL" : ""
+  },
+  "eighthProduct": {
+    "recommendedTab" : {
+      "name" : "Lookout Mobile",
+      "priceValue" : "€2.00",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Protezione per i dati aziendali Lookout consente solo ai dispositivi attendibili di connettersi all'infrastruttura aziendale e ai dati",
+      "Protezione dei rischi provenienti dai device Confronta il tuo device con i 170 milioni di dispositivi nella nostra piattaforma per identificare anomalie e rischi",
+      "Protezione dai rischi di rete Lookout attenua efficacemente i falsi positivi, rilevando le minacce ad alto impatto",
+      "Fattura unica Paghi tutte le tue licenze nella tua fattura Vodafone Business.",
+      "Consulenza Guidiamo il cliente nel trovare l’offerta che più si adatti alle sue esigenze.",
+      "Assistenza Assistenza dedicata anche dopo l’acquisto della soluzione grazie ad un numero di supporto dedicato."
+    ],
+    "URL" : ""
+  },
+  "ninthProduct": {
+    "recommendedTab" : {
+      "name" : "M365 Basic Managed",
+      "priceValue" : "€6.80",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Suite M365 Business Tutte le funzionalità delle edizioni Business Basic",
+      "Consulente esperto Gestione delle licenze M365 da parte di un consulente Vodafone dedicato",
+      "Archivio in cloud Per conservare i documenti aggiornati in tutta sicurezza",
+      "App di Office Accedi alle App di Office tra cui chat, contenuti e strumenti",
+      "Supporto Avanzato Assistenza erogata da un team di esperti Vodafone tramite apertura ticket, chat online, email o telefono",
+      "Configurazione Licenze Supporto diretto nella configurazione di tutte le licenze acquistate tramite diversi canali di contatto",
+      "Messaggistica istantanea Per una comunicazione semplice e immediata.",
+      "Aggiornamenti Ricevi aggiornamenti mensili e le funzionalità più recenti con le versioni complete installate e sempre aggiornate."
+    ],
+    "URL" : ""
+  },
+  "tenthProduct": {
+    "recommendedTab" : {
+      "name" : "M365 Standard Managed",
+      "priceValue" : "€11.63",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Suite M365 Business Tutte le funzionalità delle edizioni Business Standard ",
+      "Consulente esperto Gestione delle licenze M365 da parte di un consulente Vodafone dedicato",
+      "Archivio in cloud Per conservare i documenti aggiornati in tutta sicurezza",
+      "App di Office Accedi alle App di Office tra cui chat, contenuti e strumenti",
+      "Supporto Avanzato Assistenza erogata da un team di esperti Vodafone tramite apertura ticket, chat online, email o telefono",
+      "Configurazione Licenze Supporto diretto nella configurazione di tutte le licenze acquistate tramite diversi canali di contatto",
+      "Messaggistica istantanea Per una comunicazione semplice e immediata.",
+      "Aggiornamenti Ricevi aggiornamenti mensili e le funzionalità più recenti con le versioni complete installate e sempre aggiornate."
+    ],
+    "URL" : ""
+  },
+  "eleventhProduct": {
+    "recommendedTab" : {
+      "name" : "M365 Premium Managed",
+      "priceValue" : "€18.75",
+      "paymentType" : "Prezzo al mese",
+      "paymentType2" : "Contributo iniziale",
+      "initialPrice" : "Gratis"
+    },
+    "Features" : [
+      "Suite M365 Business Tutte le funzionalità delle edizioni Business Premium",
+      "Consulente esperto Gestione delle licenze M365 da parte di un consulente Vodafone dedicato",
+      "Archivio in cloud Per conservare i documenti aggiornati in tutta sicurezza",
+      "App di Office Accedi alle App di Office tra cui chat, contenuti e strumenti",
+      "Supporto Avanzato Assistenza erogata da un team di esperti Vodafone tramite apertura ticket, chat online, email o telefono",
+      "Configurazione Licenze Supporto diretto nella configurazione di tutte le licenze acquistate tramite diversi canali di contatto",
+      "Messaggistica istantanea Per una comunicazione semplice e immediata.",
+      "Aggiornamenti Ricevi aggiornamenti mensili e le funzionalità più recenti con le versioni complete installate e sempre aggiornate."
+    ],
+    "URL" : ""
+  }
+}

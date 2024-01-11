@@ -1,0 +1,16 @@
+{
+  "questionsApi": "https://opw-preprod.digitalretail.vodafone.com/opw-guidedsellingjourney/tmf-api/processFlowManagement/v4/processFlow/",
+  "recommendationsApi": "https://opw-preprod.digitalretail.vodafone.com/opw-guidedsellingjourney/tmf-api/recommendation/v4/queryProductRecommendation?filter=marketingId=",
+  "questionErrorPage": {
+    "errorHeader": "Qualcosa non ha funzionato",
+    "errorDescription": "Ti invitiamo a riprovare",
+    "tryAgainBtnText": "Riprova",
+    "restartBtnText": "Ricomincia"
+  },
+  "recommendationErrorPage": {
+    "errorHeader": "Qualcosa non ha funzionato",
+    "errorDescription": "We were not able to generate your recommendations. Please try again.",
+    "tryAgainBtnText": "Riprova",
+    "restartBtnText": "Ricomincia"
+  }
+}
